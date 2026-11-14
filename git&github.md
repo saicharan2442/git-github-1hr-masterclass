@@ -173,7 +173,7 @@ STEP 4: MAKE CHANGES AND COMMIT AGAIN
 
 STEP 5: ADD ANOTHER FILE
 ─────────────────────────
-  # Create style.css:
+  # Create style.css:   
 
   body {
       font-family: Arial, sans-serif;
